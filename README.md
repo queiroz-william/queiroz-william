@@ -17,7 +17,6 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/william-queiroz-pcd)
-[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:queiroz.william@outlook.com)
----
+[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/?to=queiroz.william@outlook.com)---
 
 ⭐️ Se curtiu meu perfil, fique à vontade para acompanhar meus projetos!
