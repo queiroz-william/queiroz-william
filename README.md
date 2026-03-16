@@ -1,4 +1,4 @@
-# Olá, eu sou o João Silva 👋
+# Olá, eu sou o William Queiroz 👋
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Focado em **Python**, **HTML** e **CSS**  
@@ -18,8 +18,8 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-queiroz-pcd)  
+[![Outlook](https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:queiroz.william@outlook.com)
 
 ---
 
