@@ -1,8 +1,8 @@
 # Olá, eu sou William 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas na Etec  
-💻 Atualmente aprendendo e praticando **Python, HTML e CSS**.  
-🚀 Buscando evoluir como desenvolvedor e contribuir em projetos colaborativos.
+🎓 Estudante técnico em Desenvolvimento de Sistemas pela Etec.
+Aprendendo Python, HTML e CSS e desenvolvendo projetos práticos.
+Interesse em tecnologia aplicada a processos, compliance e melhoria organizacional.
 
 ---
 
@@ -17,6 +17,6 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/william-queiroz-pcd)
-[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/?to=queiroz.william@outlook.com)---
+[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:queiroz.william@outlook.com)
 
 ⭐️ Se curtiu meu perfil, fique à vontade para acompanhar meus projetos!
