@@ -2,11 +2,17 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Focado em **Python**, **HTML** e **CSS**  
-🚀 Aprendendo e me preparando para o mercado de tecnologia  
+🚀 Preparando-me para o mercado de tecnologia
 
 ---
 
-## 🚀 Tecnologias que estudo
+## 📌 Sobre mim
+
+Tenho interesse em tecnologia aplicada à melhoria de processos organizacionais, compliance e eficiência operacional.
+
+---
+
+## 🛠️ Tecnologias que estudo
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
@@ -26,4 +32,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 
-✨ *Esse perfil é meu cartão de visitas digital. Aqui você vai acompanhar minha evolução como desenvolvedor e os projetos que estou construindo ao longo da jornada.*
+✨ Sempre aprendendo e evoluindo como desenvolvedor ✨
